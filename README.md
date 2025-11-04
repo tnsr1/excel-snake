@@ -1,5 +1,6 @@
 # Excel-Snake
 
+Added BookSnakeRuEdition.xlsm without control menu, but with Timer cycle.
 
 Play old school snake game in Excel with buttons on a custom ribbon tab named 'SNAKE'. It takes shape as methods in the code color the cells. When snake eats random generated baits, it grows.
 
